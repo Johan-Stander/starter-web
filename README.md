@@ -20,4 +20,4 @@ This chnge was mad on the master branch
 
 ## Rebase
 
-Rebase example
+Rebase example.

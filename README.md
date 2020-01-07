@@ -10,10 +10,14 @@ Sample website with plenty of files for demos
 
 This is a test that serves as an example of how to use git
 
-##Copyright
+## Copyright
 
 Copyright notice
 
-##Branching
+## Branching
 
 This chnge was mad on the master branch
+
+## Rebase
+
+Rebase example

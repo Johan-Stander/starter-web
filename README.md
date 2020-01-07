@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ###Test
 
-This is a test
+This is a test that serves as an example of how to use git

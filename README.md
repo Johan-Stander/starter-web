@@ -21,3 +21,7 @@ This chnge was mad on the master branch
 ## Rebase
 
 Rebase example.
+
+## Stashing
+
+Stashing Example
